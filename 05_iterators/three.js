@@ -23,22 +23,22 @@ map.set('USA', 'United States of America')
 map.set('FR','France')
 map.set('IN','India')// dupicate not allowed
 
-console.log(map);
+// console.log(map);
 
-for(const [key,value]of map){
-    console.log(key,':- ',value);
-}
+// for(const [key,value]of map){
+//     console.log(key,':- ',value);
+// }
 
-for(const key of map){
-    console.log(key);
-}
+// for(const key of map){
+//     console.log(key);
+// }
 // const myObject = {
 //     'game1' : 'NFS',
 //     'game2' : 'Spiderman'
 // }
 
 // for (const [key,value] of myObject) { // not iterable
-
+//     console.log(`${key} :- ${value}`)
     
 // }
 

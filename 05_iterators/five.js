@@ -21,24 +21,24 @@ const coding = ["js","ruby", "java","python","cpp"]
 // })
 
 
-const myCoding = [
-    {
-        languageName: "javascript",
-        languagefileName:"Js"
-    },
-    {
-        languageName: "java",
-        languagefileName:"Java"
-    },
-    {
-        languageName: "c++",
-        languagefileName:"cpp"
-    }
-]
+// const myCoding = [
+//     {
+//         languageName: "javascript",
+//         languagefileName:"Js"
+//     },
+//     {
+//         languageName: "java",
+//         languagefileName:"Java"
+//     },
+//     {
+//         languageName: "c++",
+//         languagefileName:"cpp"
+//     }
+// ]
 
-myCoding.forEach((item)=>{
-    console.log(item.languageName);
-})
+// myCoding.forEach((item)=>{
+//     console.log(item.languageName);
+// })
 
 
 
